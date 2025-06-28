@@ -20,7 +20,7 @@ Analyze Amazon’s product-level sales data using Power BI to generate dynamic d
 ## 📁 Project Structure
 
 - [dashboard/amazon_sales_dashboard.pbix](dashboard/amazon_sales_dashboard.pbix) – Interactive Power BI report
-- [data/amazon_sales_data.csv](data/amazon_sales_data.csv) – Raw sales data
+- [data/amazon_sales_data.csv](data/amazon_sales_data.xlsx) – Raw sales data
 - [screenshots/](screenshots/) – Dashboard visual snapshot
 
 ---
